@@ -1,1 +1,2 @@
-how are you
+My name is Emmanuel
+I love coding
