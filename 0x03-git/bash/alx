@@ -1,4 +1,5 @@
 #!/bin/bash
+HEAD
 update_script
 echo "ALX School"
 echo "ALX School is co cool!"
